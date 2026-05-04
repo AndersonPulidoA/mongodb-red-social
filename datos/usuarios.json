@@ -1,1 +1,12 @@
-
+db.usuarios.insertMany([
+{_id:1,nombre:"Ana",edad:22,pais:"Colombia"},
+{_id:2,nombre:"Luis",edad:30,pais:"México"},
+{_id:3,nombre:"Carlos",edad:28,pais:"Perú"},
+{_id:4,nombre:"Sofia",edad:24,pais:"Chile"},
+{_id:5,nombre:"Juan",edad:35,pais:"Colombia"},
+{_id:6,nombre:"Maria",edad:27,pais:"Argentina"},
+{_id:7,nombre:"Pedro",edad:31,pais:"Colombia"},
+{_id:8,nombre:"Laura",edad:26,pais:"Ecuador"},
+{_id:9,nombre:"Diego",edad:29,pais:"Colombia"},
+{_id:10,nombre:"Valentina",edad:23,pais:"Colombia"}
+])
