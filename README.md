@@ -151,6 +151,7 @@ Se logró:
 * MongoDB
 * MongoDB Compass
 * GitHub
+* JavaScritp
 
 ---
 
